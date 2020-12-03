@@ -1,0 +1,34 @@
+.scFormTable{
+		margin:0px auto;
+		border-width:0px;
+		padding:0px;
+		width:100%;
+		
+	}
+	.scFormPage{
+		margin:0px auto;
+		padding:0px;
+	}
+    body.scFormPage{
+		margin:0px auto;
+		padding:0px;
+    }
+    .scFormBorder{
+        border-width:0px;
+    }
+	
+	#hidden_field_data_contacto{
+		padding:0px;
+		width:100%;
+	}
+	
+
+    td#hidden_field_data_contactodatos {
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#main_table_form{
+    width:100%;
+}
